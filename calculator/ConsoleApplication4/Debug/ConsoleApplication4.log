@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\aceni\source\repos\consoleapplication4\consoleapplication4\main.cpp(14): warning C4326: le type de retour de 'main' doit être 'int' au lieu de 'void'
+  ConsoleApplication4.vcxproj -> C:\Users\aceni\source\repos\ConsoleApplication4\Debug\ConsoleApplication4.exe
